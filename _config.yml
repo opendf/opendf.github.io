@@ -5,7 +5,7 @@ title: opendf
 description: "Bring Democracies to the 21st century"
 analytics: "UA-9425537-1" #Google analytics code in the format XX-nnnnnnnn-n
 baseurl:  #important: start with /
-url: "http://opendf.org"
+url: http://opendf.org
 
 # Build settings
 markdown: kramdown
@@ -27,9 +27,9 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: facebook
-    url: "https://www.facebook.com/opendf
+    url: https://www.facebook.com/opendf
   - title: twitter
-    url: "https://twitter.com/opendf"
+    url: https://twitter.com/opendf
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 # address:
