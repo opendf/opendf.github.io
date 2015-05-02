@@ -1,10 +1,10 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: opendf.
+title: opendf
 description: "Bring Democracies to the 21st century"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "UA-9425537-1" #important: start with /
 url: "http://opendf.org"
 
 # Build settings
@@ -26,16 +26,10 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
   - title: facebook
-    url:
+    url: "https://www.facebook.com/opendf"
   - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+    url: "https://twitter.com/opendf"
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 # address:
