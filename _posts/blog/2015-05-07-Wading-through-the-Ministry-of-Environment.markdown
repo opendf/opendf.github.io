@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Logo design contest starts now"
-date: 2014-04-25 16:54:46
+date: 2015-05-07-Wading-through-the-Ministry-of-Environment
 author: Admin
 categories:
 - blog
