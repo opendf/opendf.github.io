@@ -288,16 +288,9 @@
         })(jQuery);
     </script>
     <script>
-        $.ajax({
-              url: "http://opendf.org/_navbar.html" ,
-              type: "GET",
-              success: function (html) {
-                  $('#navbar').html(html, function () {
-                        $('#navitem1').addClass('active');
-                    });
-              }});
-
-        
+        $('#navbar').load('http://opendf.org/_navbar.html', function () {
+            $('#navitem1').addClass('active');
+        });
         $('#footer').load('http://opendf.org/_footer.html');
     </script>
 
